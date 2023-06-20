@@ -5,6 +5,7 @@ Goal: The aim is to create a web page that allows the display and ranking of mov
 from a database, as well as providing functionality to add, edit, and delete a movie.
 
 Overview
+
 Model for this web page includes a main frame displaying a dropdown list of films 
 sorted in ascending alphabetical order of the title, read-only information about the 
 selected movie, buttons for rating and deleting the displayed movie, and a button to 
@@ -15,6 +16,7 @@ will explore the implementation of this web application using MongoDB and
 provide details on how to test and configure the database.
 
 II. Requirements and Specifications
+
 This project utilizes the full Stack, a comprehensive full stack web development 
 methodology. The combines four essential tools: MongoDB, Express’s, AngularJS, 
 and NodeJS. To design the website, we will be following the conventional MVC 
